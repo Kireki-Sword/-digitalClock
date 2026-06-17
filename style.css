@@ -7,8 +7,8 @@ body{ margin:0;}
     background-color: rgba(0, 60, 255, 0.767);
 }
 #clock{
-    box-shadow: 15px 15px 30px rgba(0, 153, 255, 0.3);
-    background-color: rgba(0, 153, 255, 0.75);
+    box-shadow: 25px 25px 35px rgba(0, 153, 255, 0.4);
+    background-color: rgba(0, 153, 255, 0.9);
     font-size: 7em;
     font-family: monospace;
     text-align: center;
@@ -17,6 +17,6 @@ body{ margin:0;}
     padding: 80px 100px;
 }
 #clock:hover{
-    background-color: rgba(0, 153, 255, 0.55);
+    background-color: rgba(0, 153, 255, 0.4);
     cursor:pointer;
 }
