@@ -1,3 +1,4 @@
+body{ margin:0;}
 #clockCon{
     display:flex;
     justify-content: center;
@@ -7,7 +8,7 @@
 #clock{
     box-shadow: 5px 5px 15px;
     background-color: rgba(0, 153, 255, 0.75);
-    font-size: 6em;
+    font-size: 5em;
     font-family: 'monospace';
     text-align: center;
     color:whitesmoke;
