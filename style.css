@@ -9,7 +9,7 @@ body{ margin:0;}
     box-shadow: 15px 15px 30px rgba(0, 153, 255, 0.3);
     background-color: rgba(0, 153, 255, 0.75);
     font-size: 7em;
-    font-family: 'monospace';
+    font-family: monospace;
     text-align: center;
     color:whitesmoke;
     transition: background-color 0.25s;
