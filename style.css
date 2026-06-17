@@ -1,17 +1,19 @@
-#clock{
+#clockCon{
     display:flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+}
+#clock{
     box-shadow: 5px 5px 15px;
-    background-color: rgba(0, 153, 255, 0.7);
+    background-color: rgba(0, 153, 255, 0.75);
     font-size: 6em;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'monospace';
     text-align: center;
     color:whitesmoke;
     transition: background-color 0.25s;
 }
 #clock:hover{
-    background-color: rgba(0, 153, 255, 0.3);
+    background-color: rgba(0, 153, 255, 0.55);
     cursor:pointer;
 }
