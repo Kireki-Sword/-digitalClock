@@ -4,6 +4,7 @@ body{ margin:0;}
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: rgba(0, 60, 255, 0.767);
 }
 #clock{
     box-shadow: 15px 15px 30px rgba(0, 153, 255, 0.3);
@@ -13,7 +14,7 @@ body{ margin:0;}
     text-align: center;
     color:whitesmoke;
     transition: background-color 0.25s;
-    padding: 30px 50px;
+    padding: 80px 100px;
 }
 #clock:hover{
     background-color: rgba(0, 153, 255, 0.55);
